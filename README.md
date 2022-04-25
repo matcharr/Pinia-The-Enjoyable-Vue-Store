@@ -13,4 +13,14 @@ npm install
 npm run dev
 ```
 
+What is state management and why Pinia?\
+Pinia installation and setup\
+Creating modular stores\
+Storing state\
+Mutating the state with actions\
+Sync and async actions\
+Computed data with Pinia getters\
+Pinia and the Composition API\
+Pinia and the Options API\
+
 [Checkout the course!](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)
